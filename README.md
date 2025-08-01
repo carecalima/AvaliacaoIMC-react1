@@ -1,6 +1,7 @@
 
-### Calculadora de IMC ###
-# Este é um aplicativo desenvolvido com React Native e Expo que permite aos usuários calcular seu Índice de Massa Corporal (IMC) inserindo seu peso e altura. Com base no resultado, o app classifica o IMC nas faixas tradicionais: abaixo do peso, peso normal, sobrepeso, obesidade grau I, II e III.#
+## Calculadora de IMC ##
+
+ Este é um aplicativo desenvolvido com React Native e Expo que permite aos usuários calcular seu Índice de Massa Corporal (IMC) inserindo seu peso e altura. Com base no resultado, o app classifica o IMC nas faixas tradicionais: abaixo do peso, peso normal, sobrepeso, obesidade grau I, II e III.
 
 ## Tecnologias Utilizadas ##
 °React Native
